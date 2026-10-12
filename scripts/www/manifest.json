@@ -1,0 +1,18 @@
+{
+  "name": "刷题题库",
+  "short_name": "刷题",
+  "description": "自用题库刷题工具：导入 Excel/Word 题库、练习、错题本、答案检索",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f6f6",
+  "theme_color": "#07c160",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
